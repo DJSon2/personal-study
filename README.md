@@ -8,3 +8,5 @@
 * [9강 4차 산업혁명](https://github.com/DJSon2/personal-study/blob/main/Computer%20Architecture/4th-industrial-revolution.md)
 * [10강 정보통신](https://github.com/DJSon2/personal-study/blob/main/Computer%20Architecture/Information-network.md)
 * [11강 인터넷](https://github.com/DJSon2/personal-study/blob/main/Computer%20Architecture/Internet.md)
+* [12강 정보보안](https://github.com/DJSon2/personal-study/blob/main/Computer%20Architecture/Information-security.md)
+* [13강 멀티미디어](https://github.com/DJSon2/personal-study/blob/main/Computer%20Architecture/Multi-media.md)
