@@ -10,3 +10,8 @@
 * [11강 인터넷](https://github.com/DJSon2/personal-study/blob/main/Computer%20Architecture/Internet.md)
 * [12강 정보보안](https://github.com/DJSon2/personal-study/blob/main/Computer%20Architecture/Information-security.md)
 * [13강 멀티미디어](https://github.com/DJSon2/personal-study/blob/main/Computer%20Architecture/Multi-media.md)
+
+# 유비쿼터스
+* [유비쿼터스 혁명](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/Ubiquitous-revolution.md)
+* [유비쿼터스 컴퓨팅 개념과 주요 이슈](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/Ubiquitous-computing.md)
+* [유비쿼터스 핵심 기술과 전망](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/Ubiquitous-future.md)
