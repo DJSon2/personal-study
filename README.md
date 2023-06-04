@@ -20,3 +20,4 @@
 * [유비쿼터스 네트워크의 개념](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/Ubiquitous-network.md)
 * [사물 인터넷](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/Object-internet.md)
 * [RFID](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/RFID.md)
+* [유비쿼터스 센서 네트워크](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/Ubiquitous-sensor-network.md)
