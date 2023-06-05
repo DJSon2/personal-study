@@ -21,3 +21,4 @@
 * [사물 인터넷](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/Object-internet.md)
 * [RFID](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/RFID.md)
 * [유비쿼터스 센서 네트워크](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/Ubiquitous-sensor-network.md)
+* [상황인식 기술](https://github.com/DJSon2/personal-study/blob/main/Ubiquitous/Context-awareness.md)
