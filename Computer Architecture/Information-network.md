@@ -119,7 +119,7 @@
         - 홈뱅킹, 홈쇼핑 등의 서비스 제공
     - ISDN(Integrated Services Digital Network)
         - 여러 서비스를 통합하여 제공(전화망과 컴퓨터망의 통합)
-        - 하나읭 망에서 음성 통신과 영상 통신이 가능함
+        - 하나의 망에서 음성 통신과 영상 통신이 가능함
     - B-ISDN(Broadband ISDN)
         - 광대역 서비스가 가능한 ISDN
         - 광케이블을 이용한 통신(수백 Mbps)
